@@ -10,3 +10,9 @@
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = git@github.com:graphaelli/vim-fugitive.git
+[submodule "bundle/scratch.vim"]
+	path = bundle/scratch.vim
+	url = git@github.com:graphaelli/scratch.vim.git
+[submodule "bundle/vim-dispatch"]
+	path = bundle/vim-dispatch
+	url = git@github.com:graphaelli/vim-dispatch.git
