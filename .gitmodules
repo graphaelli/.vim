@@ -25,3 +25,6 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = git@github.com:graphaelli/vim-surround.git
+[submodule "bundle/vim-indent-object"]
+	path = bundle/vim-indent-object
+	url = git@github.com:graphaelli/vim-indent-object.git
