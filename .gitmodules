@@ -28,3 +28,6 @@
 [submodule "bundle/vim-indent-object"]
 	path = bundle/vim-indent-object
 	url = git@github.com:graphaelli/vim-indent-object.git
+[submodule "bundle/vim-shell-scratch"]
+	path = bundle/vim-shell-scratch
+	url = https://github.com/graphaelli/vim-shell-scratch
