@@ -31,3 +31,6 @@
 [submodule "bundle/vim-shell-scratch"]
 	path = bundle/vim-shell-scratch
 	url = https://github.com/graphaelli/vim-shell-scratch
+[submodule "bundle/ack.vim"]
+	path = bundle/ack.vim
+	url = git@github.com:graphaelli/ack.vim.git

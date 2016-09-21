@@ -27,6 +27,9 @@ map <F7> :cprevious<CR>
 map <F9> :cnext<CR>
 nnoremap <F8> :cclose<CR>
 
+" ack
+let g:ackprg = 'ag --vimgrep'
+
 " ctrl-p
 let g:ctrlp_open_new_file = 't'
 
