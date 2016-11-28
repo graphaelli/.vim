@@ -45,3 +45,6 @@ autocmd FileType go nmap <leader>b  <Plug>(go-build)
 autocmd FileType go nmap <leader>r  <Plug>(go-run)
 
 "command! %!python -m json.tool
+
+" gui
+set guifont=Source\ Code\ Pro:h14
