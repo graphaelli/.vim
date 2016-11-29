@@ -6,6 +6,8 @@ filetype plugin indent on
 
 " display
 colorscheme molokai
+"set cursorcolumn
+set cursorline
 set number
 set splitright
 set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
