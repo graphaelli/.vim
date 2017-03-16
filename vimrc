@@ -20,6 +20,9 @@ if !exists(":DiffOrig")
   command DiffOrig vert new | set bt=nofile | r ++edit # | 0d_ | diffthis | wincmd p | diffthis
 endif
 
+" trim trailing whitespace
+nnoremap <Leader>w :%s/\s\+$//e<CR>
+
 " disable Q
 noremap Q <Nop>
 
