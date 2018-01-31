@@ -11,6 +11,7 @@ set cursorline
 set number
 set splitright
 set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
+set textwidth=120
 
 " write on :make
 "set autowrite
