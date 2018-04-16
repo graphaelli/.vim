@@ -4,9 +4,6 @@
 [submodule "bundle/vim-sleuth"]
 	path = bundle/vim-sleuth
 	url = git@github.com:graphaelli/vim-sleuth.git
-[submodule "bundle/vim-go"]
-	path = bundle/vim-go
-	url = git@github.com:graphaelli/vim-go.git
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = git@github.com:graphaelli/vim-fugitive.git
